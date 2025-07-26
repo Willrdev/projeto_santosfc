@@ -56,6 +56,8 @@ santos-fc-site/
 
 O site foi desenvolvido com foco em dispositivos móveis e pequenas telas, com elementos centralizados, textos legíveis e imagens ajustadas.
 
+Versão Mobile: https://willrdev.github.io/projeto_santosfc/
+
 ---
 
 ## ✍️ Autor

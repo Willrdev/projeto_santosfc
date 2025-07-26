@@ -1,0 +1,130 @@
+@charset 'UTF-8';
+
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
+
+body {
+    font-family: 'Special Gothic Expanded One', sans-serif;
+    background-color: #000000;
+    color: #fffbfb;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color: #ffd900;
+    font-family: 'Special Gothic Expanded One', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
+    margin: 0 auto;
+}
+
+h4 {
+    text-align: center;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.simbolos {
+    display: block;
+    margin: 20px auto;
+    max-width: 80%;
+    height: auto;
+    border-radius: 20px;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+   
+}
+
+.legado  {
+    color: #ffd900;
+}
+
+.historia {
+    padding: 20px;
+    margin: 20px auto 50px auto;
+    max-width: 800px;
+    border-radius: 50px;
+    border: 3px solid yellow;
+    box-shadow: #ffd900 0px 0px 15px;
+}
+
+.imagem-fundacao {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: #ffd900 0px 0px 15px;
+}
+
+.estadio {
+    padding: 20px;
+    margin: 20px auto 50px auto;
+    max-width: 800px;
+    border-radius: 50px;
+    border: 3px solid yellow;
+    box-shadow: #ffd900 0px 0px 15px;
+}
+
+.estadio1 {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: #ffd900 0px 0px 15px;
+}
+
+.estadio2 {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: #ffd900 0px 0px 15px;
+}
+
+.titulos {
+    padding: 20px;
+    margin: 20px auto 50px auto;
+    max-width: 800px;
+    border-radius: 50px;
+    border: 3px solid yellow;
+    box-shadow: #ffd900 0px 0px 15px;
+}
+
+.titulos1, .titulos2, .titulos3 {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: #ffd900 0px 0px 15px;
+}
+
+footer {
+    background-color: #ffd900;
+    color: #000000;
+    text-align: center;
+    padding: 1px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}

@@ -89,6 +89,7 @@ h3 {
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-weight: bolder;
     color: #ffffff;
+    margin-top: 20px;
     margin-bottom: 60px;
     border: 2px solid #ffe600;
     border-radius: 15px;
@@ -99,7 +100,7 @@ h3 {
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-weight: bolder;
     color: #ffffff;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 60px;
     border: 2px solid #ffe600;
     border-radius: 15px;
